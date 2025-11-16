@@ -1,16 +1,16 @@
-## Hi there 👋
+## Welcome 🔥
 
-<!--
-**dev-arga-1/dev-arga-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center><img src="pikachu.png"></img></center>
 
-Here are some ideas to get you started:
+My name is Arga.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I worked at xxx as a Data Analyst. I have a great deal of experience in building analytics report for loyalty program.
+
+My skillset:
+
+* Python 🐍
+* SQL
+* PowerBI
+* Tableau
+
+
