@@ -1,6 +1,6 @@
 ## Welcome 🔥
 
-<center><img src="pikachu.png"></img></center>
+<center><img src="pikachu.png" style="height:100px;"></img></center>
 
 My name is Arga.
 
